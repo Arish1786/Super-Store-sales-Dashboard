@@ -10,4 +10,5 @@ The objective can be broken down into the following detailed components:
 3. Sales Forecasting: Leverage historic data and apply time serie generate sales forecasts for next 15 days
 
 LEARNING
+
 Incorporated data analysis techniques, specializing in time series analysis, to deliver valuable insights, accurate sales forecasting, and interactive dashboard creation, driving business success.
